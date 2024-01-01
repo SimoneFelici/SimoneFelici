@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+##Here are some of my writeups:
+- 🌌 Internal: "https://github.com/Blueaulo/Internal-writeup-THM"
+- ⌨️ Relevant: "https://github.com/Blueaulo/Relevant-writeup-THM"
 <!--
 **Blueaulo/Blueaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
