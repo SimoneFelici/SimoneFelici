@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##Here are some of my writeups:
+## Here are some of my writeups:
 - 🌌 Internal: "https://github.com/Blueaulo/Internal-writeup-THM"
 - ⌨️ Relevant: "https://github.com/Blueaulo/Relevant-writeup-THM"
 <!--
