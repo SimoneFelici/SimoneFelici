@@ -6,6 +6,7 @@
 - 🕸️ Daily Bugle: "https://github.com/Blueaulo/DailyBugle-writeup-THM"
 - 🤵‍♂️ Alfred: "https://github.com/Blueaulo/Alfred-writeup-THM"
 - 🤡 HackPark: "https://github.com/Blueaulo/HackPark-writeup-THM"
+- 🤖 Brainpan 1: "https://github.com/Blueaulo/Brainpan1-writeup-THM"
 # I am still learning so I am open to hear some feedback, thank you!
 <!--
 **Blueaulo/Blueaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
