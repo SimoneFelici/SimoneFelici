@@ -1,5 +1,8 @@
 ### Hi there 👋
-![tryhackme stats](https://raw.githubusercontent.com/Blueaulo/Blueaulo/master/assets/thm_propic.png)
+<div align="center">
+  <!-- <script src="https://tryhackme.com/badge/1134216"></script> -->
+  <a target="_blank" href="https://tryhackme.com/p/SimoneF9"><img height="58" title="TryHackMe Profile" alt="TryHackMe SimoneF9 Profile" src="https://tryhackme-badges.s3.amazonaws.com/SimoneF9.png"></a>
+</div>
 ## Here are some of my writeups:
 - 🌌 Internal: "https://github.com/Blueaulo/Internal-writeup-THM"
 - ⌨️ Relevant: "https://github.com/Blueaulo/Relevant-writeup-THM"
