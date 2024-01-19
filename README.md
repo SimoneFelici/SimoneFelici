@@ -1,5 +1,5 @@
 ### Hi there 👋
-![tryhackme stats](https://raw.githubusercontent.com/SimoneF9/SimoneF9/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/Blueaulo/Blueaulo/master/assets/thm_propic.png)
 ## Here are some of my writeups:
 - 🌌 Internal: "https://github.com/Blueaulo/Internal-writeup-THM"
 - ⌨️ Relevant: "https://github.com/Blueaulo/Relevant-writeup-THM"
