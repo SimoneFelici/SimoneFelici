@@ -1,4 +1,4 @@
-# Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hack&duration=3000&pause=500&random=false&width=435&lines=Hi%2C+I+am+Simone.;I+am+still+learning%2C;Open+to+hear+your+feedback!" alt="Typing SVG" /></a>
 
 <a target="_blank" href="https://tryhackme.com/p/SimoneF9"><img height="58" title="TryHackMe Profile" alt="TryHackMe SimoneF9 Profile" src="https://tryhackme-badges.s3.amazonaws.com/SimoneF9.png"></a>
 
