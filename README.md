@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![tryhackme stats](https://raw.githubusercontent.com/SimoneF9/SimoneF9/master/assets/thm_propic.png)
 ## Here are some of my writeups:
 - 🌌 Internal: "https://github.com/Blueaulo/Internal-writeup-THM"
 - ⌨️ Relevant: "https://github.com/Blueaulo/Relevant-writeup-THM"
@@ -8,6 +8,7 @@
 - 🤡 HackPark: "https://github.com/Blueaulo/HackPark-writeup-THM"
 - 🤖 Brainpan 1: "https://github.com/Blueaulo/Brainpan1-writeup-THM"
 # I am still learning, I am open to hear your feedback, thank you!
+
 <!--
 **Blueaulo/Blueaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
