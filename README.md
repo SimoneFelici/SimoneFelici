@@ -1,25 +1,51 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hack&duration=3000&pause=500&random=false&width=435&lines=Hi%2C+I+am+Simone.;I+am+still+learning%2C;Open+to+hear+your+feedback!" alt="Typing SVG" /></a>
+<h2 align="left">Hi 👋! My name is Simone and I'm a Cybersecurity student, from Italy</h2>
 
-<a target="_blank" href="https://tryhackme.com/p/SimoneF9"><img height="58" title="TryHackMe Profile" alt="TryHackMe SimoneF9 Profile" src="https://tryhackme-badges.s3.amazonaws.com/SimoneF9.png"></a>
+###
 
-## Here are some of my writeups:
-- 🌌 Internal: "https://github.com/Blueaulo/Internal-writeup-THM"
-- ⌨️ Relevant: "https://github.com/Blueaulo/Relevant-writeup-THM"
-- 🕸️ Daily Bugle: "https://github.com/Blueaulo/DailyBugle-writeup-THM"
-- 🤵‍♂️ Alfred: "https://github.com/Blueaulo/Alfred-writeup-THM"
-- 🤡 HackPark: "https://github.com/Blueaulo/HackPark-writeup-THM"
-- 🤖 Brainpan 1: "https://github.com/Blueaulo/Brainpan1-writeup-THM"
-<!--
-**Blueaulo/Blueaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simonefelici&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=simonefelici&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simonefelici&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://tryhackme.com/p/SimoneF9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/simone-felici-092b87245/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/simone.felici9/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/simonefelici/simonefelici/output/snake.svg" alt="Snake animation" />
+
+###
