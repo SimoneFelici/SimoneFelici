@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simone</h1>
-<h3 align="center">PenTest / Learning Coding</h3>
+<h3 align="center">PenTester / Learning Coding</h3>
 
 - 🖋️ I work as a PenTester - SAST/DAST
 
