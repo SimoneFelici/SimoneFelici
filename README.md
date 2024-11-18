@@ -9,6 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Expose-writeup-THM](/posts/Expose/)
+- [Brooklyn99-writeup-THM](/posts/Brooklyn99/)
+- [Retro-writeup-THM](/posts/Retro/)
+- [MrRobot-writeup-THM](/posts/MrRobot/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
