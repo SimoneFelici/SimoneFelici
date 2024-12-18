@@ -5,7 +5,7 @@
 
 - 👾 CTF player
 
-- 💻 Currently a 42Rome student
+- 💻 42 student
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
