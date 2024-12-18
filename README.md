@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Simone</h1>
 <h3 align="left">PenTester / Learning Coding</h3>
 
-- 🖋️ PenTester - SAST/DAST
+- 🖋️ PenTester
 
-- 👾 CTF player, you can read some writeups here: [https://simonefelici.github.io/](https://simonefelici.github.io/)
+- 👾 CTF player
 
 - 💻 Currently a 42Rome student
 
