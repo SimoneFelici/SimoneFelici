@@ -8,6 +8,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WIP](https://simonefelici.github.io/p/wip/)
+- [Alfred THM](https://simonefelici.github.io/p/alfred-thm/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
