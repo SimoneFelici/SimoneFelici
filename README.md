@@ -8,11 +8,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WIP](https://simonefelici.github.io/p/wip/)
-- [Internal Writeup THM](https://simonefelici.github.io/p/internal-writeup-thm/)
-- [Relevant Writeup THM](https://simonefelici.github.io/p/relevant-writeup-thm/)
-- [DailyBugle Writeup THM](https://simonefelici.github.io/p/dailybugle-writeup-thm/)
-- [HackPark Writeup THM](https://simonefelici.github.io/p/hackpark-writeup-thm/)
+- [Expose Writeup THM](https://simonefelici.github.io/p/expose-writeup-thm/)
+- [Brooklyn99 Writeup THM](https://simonefelici.github.io/p/brooklyn99-writeup-thm/)
+- [Retro Writeup THM](https://simonefelici.github.io/p/retro-writeup-thm/)
+- [Mr Robot CTF Writeup THM](https://simonefelici.github.io/p/mr-robot-ctf-writeup-thm/)
+- [NetExec Tool Overview](https://simonefelici.github.io/p/netexec-tool-overview/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
