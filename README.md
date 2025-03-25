@@ -1,5 +1,4 @@
-<h1 align="left">Hi 👋, I'm Simone</h1>
-<h3 align="left">PenTester / Learning Coding</h3>
+# Hi 👋, I'm Simone
 
 - 🖋️ PenTester
 
@@ -7,7 +6,7 @@
 
 - 💻 42 student
 
-# Blog posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
