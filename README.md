@@ -1,4 +1,4 @@
-# Hi 👋, I'm Simone
+# Hi, I'm Simone
 
 - 🖋️ PenTester
 
