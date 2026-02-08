@@ -21,3 +21,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonefelici&show_icons=true&theme=radical&locale=en&layout=compact&hide=Roff,TeX,HTML" alt="simonefelici" /></p>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/SimoneF9.png" alt="Badge" />
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
